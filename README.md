@@ -1,5 +1,5 @@
 # Has Many Through Forms Rails
-
+ 
 ## Objectives
 
 1. Construct a bi-directional has many through.
